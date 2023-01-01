@@ -1,6 +1,7 @@
 {
     "name": "nordpool",
     "render_readme": true
+    "country": ["AT", "BE", "DK", "EE", "FI", "FR", "DE", "LU", "LV", "LT", "NL", "NO", "SE"]
 }
 
 
